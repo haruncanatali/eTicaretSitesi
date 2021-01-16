@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Index";
+
+
+    double sumOfPrice = 0.0;
+
+}
+
+
+<div class="text-center">
+    <h3 class="display-3">Sepetim</h3>
+</div>
+
+<table class="table table-striped table-sm table-bordered mt-5">
+    <thead>
+        <tr>
+            <th scope="colgroup" class="text-center">Ürün Açıklama</th>
+            <th scope="colgroup" class="text-center">Ürün Adet</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model.Count() != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <p class="text-black-50">
+                            <img src="~/img/@item.ProductPhotoUrl" class="rounded float-left w-auto" height="150" width="150" alt="...">
+                            <div class="mt-2">
+                                <span class="h5 text-info ml-4 w-auto">Ürün Başlık&nbsp;:&nbsp;</span><span class="text-dark">@item.ProductTitle</span>
+                            </div>
+                            <div class="mt-2">
+                                <span class="h5 text-info ml-4 w-auto">Ürün Fiyat&nbsp;:&nbsp;</span><span class="text-dark">@item.ProductPrice.ToString()&nbsp;&#8378;</span>
+                            </div>
+                            <div class="mt-2">
+                                <a href="/Product/Details/@item.ProductId" class="btn ml-4 w-auto" style="background-color:darkkhaki;">Ürün detayına tekrardan göz at!</a>
+                            </div>
+                        </p>
+                    </td>
+                    <td>
+                        <div class="text-center mt-3 mx-auto">
+                            @{
+                                int deger = 0;
+
+                                if (Sepet.Ids.ContainsKey(item.ProductId))
+                                {
+                                    deger = Sepet.Ids[item.ProductId];
+                                }
+
+
+                                sumOfPrice = sumOfPrice + (deger * (Convert.ToDouble(item.ProductPrice)));
+
+                            }
+
+                            <div class="font-weight-bold">
+                                @deger.ToString()
+                            </div>
+                            <div class="mt-4">
+                                <a asp-controller="Basket" asp-action="IncreaseProduct" asp-route-id="@item.ProductId" class="btn btn-outline-success">Arttır</a>
+                                <a asp-controller="Basket" asp-action="DecreaseProduct" asp-route-id="@item.ProductId" class="btn btn-outline-danger">Azalt</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+            <tr>
+                <td colspan="2">
+                    <div class="mt-4 mr-4">
+                        <p class="d-flex justify-content-end"><span class="h5">Toplam Fiyat&nbsp;:&nbsp;</span><span class="mr-5">@sumOfPrice.ToString("0.00")&nbsp;&#8378;</span></p>
+                        <div class="d-flex justify-content-end">
+                            <a onclick="Yaz()" asp-action="ClearBasket" asp-controller="Basket" class="btn btn-success">Ödemeyi Tamamla</a>
+                            <a onclick="Yaz1()" asp-action="ClearBasket" asp-controller="Basket" class="ml-3 btn btn-danger">Sepeti Temizle</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+         }
+         else 
+            {
+                <tr>
+                    <td colspan="2">
+                        <div class="alert alert-danger text-center">
+                            <span class="display-4">Sepetinizde Ürün Yok!</span>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+
+    </tbody>
+</table>
+
+<script>
+    function Yaz() {
+        alert("Satın Alımlarınız İçin Teşekkürler!");
+    }
+    function Yaz1() {
+        alert("Sepetiniz Temizlendi!");
+    }
+</script>
+

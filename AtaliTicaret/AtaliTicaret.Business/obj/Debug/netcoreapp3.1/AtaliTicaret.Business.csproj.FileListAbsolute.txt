@@ -1,0 +1,17 @@
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Business.deps.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Business.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.csprojAssemblyReference.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.AssemblyInfoInputs.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.AssemblyInfo.cs
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Business.runtimeconfig.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Business.runtimeconfig.dev.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.genruntimeconfig.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Business.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.csproj.CopyComplete
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Business\obj\Debug\netcoreapp3.1\AtaliTicaret.Business.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+﻿@model List<Category>
+@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col">
+        <ul class="list-group">
+            <li class="list-group-item disabled" style="background-color: blueviolet;"><span class="font-weight-bold h5" style="color:white;">Kategoriler</span></li>  
+            @foreach (Category category in Model)
+            {
+                <li class="list-group-item">
+                    <a asp-action="CategoryProductsList" asp-controller="Product" asp-route-id="@category.CategoryId" >@category.CategoryName&nbsp; (@category.Products.Count())</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

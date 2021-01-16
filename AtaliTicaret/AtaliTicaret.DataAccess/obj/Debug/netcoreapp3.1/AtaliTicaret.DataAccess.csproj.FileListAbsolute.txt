@@ -1,0 +1,15 @@
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.deps.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.csprojAssemblyReference.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.AssemblyInfoInputs.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.AssemblyInfo.cs
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.runtimeconfig.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.runtimeconfig.dev.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.genruntimeconfig.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.csproj.CopyComplete
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.DataAccess\obj\Debug\netcoreapp3.1\AtaliTicaret.DataAccess.csproj.CoreCompileInputs.cache

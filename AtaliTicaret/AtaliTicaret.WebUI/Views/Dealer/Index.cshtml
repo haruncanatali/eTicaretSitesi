@@ -1,0 +1,39 @@
+﻿@model List<Dealer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@for (int i = 0; i < Model.Count(); i++)
+{
+    if (i % 3 == 0)
+    {
+        <div class="card-group">
+            @{
+                int gidilecek = i + 3;
+
+                if (gidilecek > Model.Count())
+                {
+                    gidilecek = Model.Count();
+                }
+            }
+
+            @for (int j = i; j < gidilecek; j++)
+            {
+                <div class="card border text-center mt-3 ml-2">
+                    <img src="~/img/@Model[j].DealerLogoUrl" class="card-img-top"  height="300" alt="@Model[j].DealerName">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@Model[j].DealerName</h5>
+                        <p class="card-text"><span class="text-info h4">@Model[j].DealerAdress</span></p>
+                        <p class="card-text">Telefon&nbsp;:&nbsp;@Model[j].DealerTel</p>
+
+                    </div>
+                    <div class="card-footer text-center">
+                        <a class="btn btn-outline-primary" asp-action="Details" asp-controller="Dealer" asp-route-id="@Model[j].DealerId">Satıcı Detaylarına Göz At</a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+}
+
+

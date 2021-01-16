@@ -1,0 +1,42 @@
+﻿@model Dealer
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="card text-center">
+    <div class="card-header">
+        GeldiGeliyorSatıcısı
+    </div>
+    <div class="card-body">
+        <img src="~/img/@Model.DealerLogoUrl" class="card-img-top w-50" height="200" />
+        <div class="card-body">
+            <h5 class="card-title">@Model.DealerName</h5>
+            <p class="card-text">Adres&nbsp;:&nbsp;@Model.DealerAdress</p>
+            <p class="card-text">Telefon&nbsp;:&nbsp;@Model.DealerTel</p>
+        </div>
+        <div class="card-footer text-muted">
+            GeldiGeliyor Kalitesiyle...
+        </div>
+    </div>
+</div>
+<ul class="list-group mt-3">
+    @if (Model.Products.Count() > 0)
+    {
+        <li class="list-group-item disabled" style="background-color:blueviolet; color:white;" aria-disabled="true">Satıcının Ürünleri</li>
+        @foreach (Product item in Model.Products)
+        {
+            <li class="list-group-item">
+                <a asp-route-id="@item.ProductId" asp-controller="Product" asp-action="Details">
+                    @item.ProductTitle
+                </a>
+            </li>
+        }
+    }
+    else
+    {
+        <li class="list-group-item">
+            <div class="alert text-center alert-danger text-white">Satıcının Sisteme Kayıtlı Ürünü Yoktur</div>
+        </li>
+    }
+</ul>
+

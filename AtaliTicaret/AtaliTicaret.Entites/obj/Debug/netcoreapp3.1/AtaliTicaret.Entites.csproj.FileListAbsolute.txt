@@ -1,0 +1,12 @@
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.deps.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.AssemblyInfoInputs.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.AssemblyInfo.cs
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.runtimeconfig.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.runtimeconfig.dev.json
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.genruntimeconfig.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\bin\Debug\netcoreapp3.1\AtaliTicaret.Entites.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.dll
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.pdb
+E:\derscalismalarim\.netCore Çalışmalarım\Proje12_AtaliTicaret\AtaliTicaret\AtaliTicaret.Entites\obj\Debug\netcoreapp3.1\AtaliTicaret.Entites.csprojAssemblyReference.cache
