@@ -16,7 +16,6 @@ Merhaba bu projede asp.net core mvc ile basit bir üyeliksiz e ticaret sitesi ya
  
  **3)** DesktopUI için dependency injector olarak Ninject kullanılmıştır.
 
-# Projeden Görüntüler
-![enter image description here](https://photos.google.com/photo/AF1QipPiVJNimTF3i3483ENSP5Sn0Rc7elmbVk6XtXt_)
-![enter image description here](https://photos.google.com/photo/AF1QipNyTgUuFmOePOZAJVc4eKxe1YkGx2WFp0l0Tqif)
-![enter image description here](https://photos.google.com/photo/AF1QipOLRRKWrKlJTcwlv55mkRlBNURUVL4Maf5hfkoc)
+<div style="color: red;">
+    <h1>Merhaba</h1>
+</div>
