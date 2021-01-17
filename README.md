@@ -18,4 +18,5 @@ Merhaba bu projede asp.net core mvc ile basit bir üyeliksiz e ticaret sitesi ya
 
 <div style="color: red;">
     <h1>Merhaba</h1>
+    <img src="https://photos.google.com/photo/AF1QipNyTgUuFmOePOZAJVc4eKxe1YkGx2WFp0l0Tqif">
 </div>
